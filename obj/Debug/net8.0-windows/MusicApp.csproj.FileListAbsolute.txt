@@ -1,0 +1,16 @@
+C:\Users\alima\Videos\MusicApp\bin\Debug\net8.0-windows\MusicApp.exe
+C:\Users\alima\Videos\MusicApp\bin\Debug\net8.0-windows\MusicApp.deps.json
+C:\Users\alima\Videos\MusicApp\bin\Debug\net8.0-windows\MusicApp.runtimeconfig.json
+C:\Users\alima\Videos\MusicApp\bin\Debug\net8.0-windows\MusicApp.dll
+C:\Users\alima\Videos\MusicApp\bin\Debug\net8.0-windows\MusicApp.pdb
+C:\Users\alima\Videos\MusicApp\obj\Debug\net8.0-windows\MusicApp.Form1.resources
+C:\Users\alima\Videos\MusicApp\obj\Debug\net8.0-windows\MusicApp.csproj.GenerateResource.cache
+C:\Users\alima\Videos\MusicApp\obj\Debug\net8.0-windows\MusicApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alima\Videos\MusicApp\obj\Debug\net8.0-windows\MusicApp.AssemblyInfoInputs.cache
+C:\Users\alima\Videos\MusicApp\obj\Debug\net8.0-windows\MusicApp.AssemblyInfo.cs
+C:\Users\alima\Videos\MusicApp\obj\Debug\net8.0-windows\MusicApp.csproj.CoreCompileInputs.cache
+C:\Users\alima\Videos\MusicApp\obj\Debug\net8.0-windows\MusicApp.dll
+C:\Users\alima\Videos\MusicApp\obj\Debug\net8.0-windows\refint\MusicApp.dll
+C:\Users\alima\Videos\MusicApp\obj\Debug\net8.0-windows\MusicApp.pdb
+C:\Users\alima\Videos\MusicApp\obj\Debug\net8.0-windows\MusicApp.genruntimeconfig.cache
+C:\Users\alima\Videos\MusicApp\obj\Debug\net8.0-windows\ref\MusicApp.dll
